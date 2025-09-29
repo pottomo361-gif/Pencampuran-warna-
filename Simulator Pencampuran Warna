@@ -1,0 +1,64 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://PEUkVp3SOMb8Pjt:vkffYkmULNA9sZT@localhost:33083/storage/emulated/0/warna%20/index.html
+Subject: Simulator Pencampuran Warna
+Date: Mon, 29 Sep 2025 12:53:42 +0700
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--PqPcjpqP5MeQvcrYekmchdkrqCFY5j0Raoc24IqPPs----"
+
+
+------MultipartBoundary--PqPcjpqP5MeQvcrYekmchdkrqCFY5j0Raoc24IqPPs----
+Content-Type: text/html
+Content-ID: <frame-6C8BDB61349669513F6BAACD8B2DCD77@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: http://PEUkVp3SOMb8Pjt:vkffYkmULNA9sZT@localhost:33083/storage/emulated/0/warna%20/index.html
+
+<!DOCTYPE html><html lang="id"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-eda20b54-361f-4775-a76d-d00551777cda@mhtml.blink" />
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Simulator Pencampuran Warna</title>
+  
+</head>
+<body>
+  <h1>Simulator Pencampuran Warna</h1>
+  
+  <div class="slider-container">
+    <label for="red">Merah (R): <span id="redValue">70</span></label><br>
+    <input type="range" id="red" min="0" max="255" value="0">
+  </div>
+  
+  <div class="slider-container">
+    <label for="green">Hijau (G): <span id="greenValue">74</span></label><br>
+    <input type="range" id="green" min="0" max="255" value="0">
+  </div>
+  
+  <div class="slider-container">
+    <label for="blue">Biru (B): <span id="blueValue">73</span></label><br>
+    <input type="range" id="blue" min="0" max="255" value="0">
+  </div>
+  
+  <div class="color-box" id="colorBox" style="background-color: rgb(70, 74, 73);"></div>
+  
+  
+
+
+
+</body></html>
+------MultipartBoundary--PqPcjpqP5MeQvcrYekmchdkrqCFY5j0Raoc24IqPPs----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-eda20b54-361f-4775-a76d-d00551777cda@mhtml.blink
+
+@charset "utf-8";
+
+body { font-family: Arial, sans-serif; margin: 20px; text-align: center; }
+
+.color-box { width: 200px; height: 200px; margin: 20px auto; border: 2px solid rgb(0, 0, 0); background-color: rgb(0, 0, 0); }
+
+.slider-container { margin: 10px 0px; }
+
+label { font-weight: bold; }
+
+input[type="range"] { width: 300px; }
+------MultipartBoundary--PqPcjpqP5MeQvcrYekmchdkrqCFY5j0Raoc24IqPPs------
